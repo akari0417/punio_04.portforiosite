@@ -118,6 +118,10 @@ ul, ol, li {
     list-style: none;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .container {
     width: 75%;
     margin: 0 auto;
